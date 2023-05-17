@@ -1,0 +1,15 @@
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\bin\Debug\net6.0\okolnaSreda.exe
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\bin\Debug\net6.0\okolnaSreda.deps.json
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\bin\Debug\net6.0\okolnaSreda.runtimeconfig.json
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\bin\Debug\net6.0\okolnaSreda.dll
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\bin\Debug\net6.0\okolnaSreda.pdb
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\okolnaSreda.csproj.AssemblyReference.cache
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\okolnaSreda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\okolnaSreda.AssemblyInfoInputs.cache
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\okolnaSreda.AssemblyInfo.cs
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\okolnaSreda.csproj.CoreCompileInputs.cache
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\okolnaSreda.dll
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\refint\okolnaSreda.dll
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\okolnaSreda.pdb
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\okolnaSreda.genruntimeconfig.cache
+C:\Users\Svg\source\repos\OOP11d1grupa\okolnaSreda\obj\Debug\net6.0\ref\okolnaSreda.dll
